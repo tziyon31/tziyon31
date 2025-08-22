@@ -1,5 +1,5 @@
 <!-- Hero -->
-<h1 align="center">Tziyon Bubli — DevOps & AI</h1>
+<h1 align="center">Tziyon Bublil — DevOps & AI</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINK">LinkedIn</a> •
   <a href="mailto:YOUR@EMAIL">Email</a> •
