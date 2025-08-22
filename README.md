@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tziyon-bublil-190a8a373/">LinkedIn</a> •
   <a href="mailto:tziyon31@hotmail.com">Email</a> •
-  <a href="https://github.com/tziyon31/ai-devops-agent">AI DevOps Agent</a> •
   <a href="https://github.com/tziyon31?tab=repositories">Projects</a>
 </p>
 
