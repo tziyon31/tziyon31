@@ -1,10 +1,10 @@
 <!-- Hero -->
-<h1 align="center">Tziyon Bublil — DevOps & AI</h1>
+<h1 align="center">Tziyon Bubli - DevOps & AI</h1>
 <p align="center">
-  <a href="www.linkedin.com/in/tziyon-bublil-190a8a373">LinkedIn</a> •
-  <a href="mailto:YOUR@EMAIL">Email</a> •
-  <a href="https://github.com/tziyon31?tab=repositories">Projects</a>
+  <a href="https://www.linkedin.com/in/tziyon-bublil-190a8a373/">LinkedIn</a> •
+  <a href="mailto:tziyon31@hotmail.com">Email</a> •
 </p>
+
 
 > I build pragmatic DevOps and AI automations: IaC on AWS, K8s/Jenkins CI/CD, and AI agents for troubleshooting.
 
