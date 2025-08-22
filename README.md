@@ -18,22 +18,16 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,python,flask,docker,ansible,terraform,aws,kubernetes,jenkins,git,github,sqlite" />
 </p>
 
-### Stats (lightweight)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tziyon31&show_icons=true&count_private=true" height="135" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tziyon31" height="135" />
-</p>
-
 ### Featured projects
 - **AI DevOps Agent** – LLM + Flask API, planning JSON for tool executors.  
   `Python · Flask · OpenAI · Jenkins`
-- **TerraformLabs** – IaC modules & patterns for AWS networking and compute.  
+- **TerraformLabs** – COMING SOON- IaC modules & patterns for AWS networking and compute.  
   `Terraform · AWS · ACM · ALB/ASG · Remote state`
-- **KubernetesLabs** – K8s manifests, Helm, Ingress, and monitoring.  
+- **KubernetesLabs** – COMING SOON- K8s manifests, Helm, Ingress, and monitoring.  
   `Kubernetes · Prometheus · Grafana`
 
 ### Contact
-- Email: YOUR@EMAIL  
+- Email: tziyon31@hotmail.com  
 - Location: Israel · Open to DevOps roles
 ## Quick links
-- Resume: add link here
+- Resume: COMING SOON- add link here
