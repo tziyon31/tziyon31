@@ -1,9 +1,7 @@
 <!-- Hero -->
 <h1 align="center">Tziyon Bublil — DevOps & AI</h1>
 <p align="center">
-  <a href="www.linkedin.com/in/tziyon-bublil-190a8a373
-
-">LinkedIn</a> •
+  <a href="www.linkedin.com/in/tziyon-bublil-190a8a373">LinkedIn</a> •
   <a href="mailto:YOUR@EMAIL">Email</a> •
   <a href="https://github.com/tziyon31?tab=repositories">Projects</a>
 </p>
