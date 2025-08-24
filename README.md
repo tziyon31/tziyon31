@@ -7,12 +7,7 @@
 </p>
 
 
-> I build pragmatic DevOps and AI automations: IaC on AWS, K8s/Jenkins CI/CD, and AI agents for troubleshooting.
-
-### Highlights
-- **AI-DevOps Agent** – LLM-based log triage & tool-exec for Jenkins pipelines.  
-- **TerraformLabs** – Production-ready patterns (VPC, ALB/ASG, ACM, remote state).  
-- **KubernetesLabs** – Deployments, Ingress, observability (Prometheus/Grafana).
+> I build pragmatic DevOps and AI automations: IaC on AWS, K8s/Jenkins CI/CD, and AI agents for troubleshooting
 
 ### Toolbelt
 <p>
