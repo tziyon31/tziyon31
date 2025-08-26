@@ -17,10 +17,9 @@
 ### Featured projects
 - **AI DevOps Agent** – LLM + Flask API, planning JSON for tool executors.  
   `Python · Flask · OpenAI · Jenkins`
-- **TerraformLabs** – COMING SOON- IaC modules & patterns for AWS networking and compute.  
-  `Terraform · AWS · ACM · ALB/ASG · Remote state`
-- **KubernetesLabs** – COMING SOON- K8s manifests, Helm, Ingress, and monitoring.  
-  `Kubernetes · Prometheus · Grafana`
+- **Terraform Projects** – IaC   
+  `Terraform · AWS 
+
 
 ### Contact
 - Email: tziyon31@hotmail.com  
