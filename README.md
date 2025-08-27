@@ -16,7 +16,7 @@
 
 ### Featured projects
 - **AI DevOps Agent** – LLM + Flask API, planning JSON for tool executors.
-- # AI DEVOPS AGENT PROJECT [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
+   [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
 
   
   `Python · Flask · OpenAI · Jenkins`
