@@ -15,13 +15,13 @@
 </p>
 
 ### Featured projects
-- **AI DevOps Agent** – LLM + Flask API, planning JSON for tool executors.  
-  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="20">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
+- **AI DevOps Agent** – LLM + API, planning JSON for tool executors.  
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
+
 
 
 - **Terraform Projects** – IaC  
-  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="20">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/terraform-projects&cloudshell_git_branch=main&cloudshell_working_dir=.)
- 
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/terraform-projects&cloudshell_git_branch=main&cloudshell_working_dir=.)
 
 
 ### Contact
