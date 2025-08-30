@@ -17,7 +17,9 @@
 ### Featured projects
 - **AI DevOps Agent** – LLM + API, planning JSON for tool executors.  
   [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
-
+  
+Python CI/CD on K8s (Helm) – Jenkins pipeline with Docker build & Helm deploy.
+<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">
 
 
 - **Terraform Projects** – IaC  
