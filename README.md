@@ -28,4 +28,4 @@
 - Email: tziyon31@hotmail.com  
 - Location: Israel · Open to DevOps roles
 ## Quick links
-- Resume: [Link](https://drive.google.com/file/d/1yZcSr4Fnt65SGUrQOMSIXrtsQJbPhdIu/view?usp=sharing)
+- Resume: [Link](https://drive.google.com/file/d/1Arm2Ff0oudR3aJei-zhMIje9YoHAxj-w/view?usp=sharing)
