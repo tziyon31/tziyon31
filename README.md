@@ -1,7 +1,8 @@
 <!-- Header / Hero -->
 <p align="center">
   <img alt="Tziyon Bublil banner"
-       src="https://capsule-render.vercel.app/api?type=venom&amp;height=150&amp;text=Tziyon%20Bublil%20-%20DevOps%20%26%20Agentic%20DevOps&amp;reversal=false&amp;textBg=false&amp;fontAlign=50&amp;rotate=-3&amp;descAlign=30&amp;section=header&amp;v=2" />
+       src=<img width="375" height="246" alt="image" src="https://github.com/user-attachments/assets/d98bbd87-6ecd-47df-8a40-2db39cd4e374" />
+ />
 </p>
 
 <div align="center">
