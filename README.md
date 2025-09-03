@@ -3,10 +3,8 @@
   <img
     src="https://github.com/user-attachments/assets/d98bbd87-6ecd-47df-8a40-2db39cd4e374"
     alt="Tziyon Bublil banner"
-    width="100%" />
+    width="33%" />
 </p>
-
-
 <div align="center">
   <!-- Social -->
   <a href="https://www.linkedin.com/in/tziyon-bublil-190a8a373/">
