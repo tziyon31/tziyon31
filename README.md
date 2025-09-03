@@ -1,27 +1,31 @@
 <!-- Header / Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Tziyon%20Bublil%20-%20DevOps%20%26%20Agentic%20DevOps&reversal=false&textBg=false&fontAlign=50&rotate=-3&descAlign=30&section=header"/>
+  <img alt="Tziyon Bublil banner"
+       src="https://capsule-render.vercel.app/api?type=venom&amp;height=150&amp;text=Tziyon%20Bublil%20-%20DevOps%20%26%20Agentic%20DevOps&amp;reversal=false&amp;textBg=false&amp;fontAlign=50&amp;rotate=-3&amp;descAlign=30&amp;section=header&amp;v=2" />
 </p>
 
 <div align="center">
   <!-- Social -->
   <a href="https://www.linkedin.com/in/tziyon-bublil-190a8a373/">
-    <img height="40" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+    <img height="28" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:tziyon31@hotmail.com">
-    <img height="40" alt="Email" src="https://img.shields.io/badge/Email-Contact-black?logo=gmail&logoColor=white&labelColor=000&color=000">
+    <img height="28" alt="Email" src="https://img.shields.io/badge/Email-Contact-black?logo=gmail&logoColor=white&labelColor=000&color=000">
+  </a>
+  <a href="https://github.com/tziyon31?tab=repositories">
+    <img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-181717?logo=github&logoColor=white">
   </a>
 
   <br/>
 
   <!-- Social metrics -->
-  <img src="https://img.shields.io/github/followers/tziyon31?style=social" />
-  <img src="https://img.shields.io/github/stars/tziyon31?style=social" />
+  <img src="https://img.shields.io/github/followers/tziyon31?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/tziyon31?style=social" alt="Stars"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tziyon31" alt="Visitor Badge"/>
 
   <br/><br/>
 
-  <!-- Skills badges (like Nir – black line style) -->
+  <!-- Skills badges (black line style, like Nir) -->
   <!-- line 1 -->
   ![Git](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=000&color=000)
   ![Bash](https://img.shields.io/badge/Bash-1?logo=gnubash&logoColor=white&labelColor=000&color=000)
@@ -48,24 +52,26 @@
   <br/><br/>
 
   <!-- Stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tziyon31&layout=compact&theme=vision-friendly-dark" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tziyon31&theme=dark&background=000000" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tziyon31&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tziyon31&theme=dark&background=000000" alt="Streak Stats"/>
 </div>
 
 <!-- Pitch -->
 > I build pragmatic DevOps and AI automations: IaC on AWS, K8s/Jenkins CI/CD, and AI agents for troubleshooting.
 
 ### Featured projects
-- **AI DevOps Agent** - LLM + API, planning JSON for tool executors  
+- **AI DevOps Agent** – LLM + API, planning JSON for tool executors  
   [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
 
-- **Python CI/CD on K8s (Helm)** - Jenkins pipeline with Docker build & Helm deploy  
+- **Python CI/CD on K8s (Helm)** – Jenkins pipeline with Docker build & Helm deploy  
   [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/python-cicd-pipeline-k8s-helm&cloudshell_git_branch=main&cloudshell_working_dir=.)
 
-- **Terraform Projects** - IaC with reusable Terraform modules  
+- **Terraform Projects** – IaC with reusable Terraform modules  
   [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/terraform-projects&cloudshell_git_branch=main&cloudshell_working_dir=.)
 
 ### Contact
 - Email: tziyon31@hotmail.com  
-- Location: Israel - Open to DevOps roles
+- Location: Israel · Open to DevOps roles
 
+### Quick links
+- Resume: [Link](https://drive.google.com/file/d/1Arm2Ff0oudR3aJei-zhMIje9YoHAxj-w/view?usp=sharing)
