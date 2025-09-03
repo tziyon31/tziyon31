@@ -64,11 +64,12 @@
 - **Python CI/CD on K8s (Helm)** – Jenkins pipeline with Docker build & Helm deploy  
   [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/python-cicd-pipeline-k8s-helm&cloudshell_git_branch=main&cloudshell_working_dir=.)
 
-- **Terraform Projects** – IaC with reusable Terraform modules  
-  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/terraform-projects&cloudshell_git_branch=main&cloudshell_working_dir=.)
+- **EKS CloudForge** – End-to-end DevOps platform on AWS EKS.  
+  Includes Terraform IaC for infrastructure, Helm for app deployment, Jenkins CI/CD pipeline, and integrated monitoring with Prometheus & Grafana.  
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/EKS_CloudForge&cloudshell_git_branch=main&cloudshell_working_dir=.)
 
 ### Contact
-- Email: tziyon31@hotmail.com  
+- Email: tziyon31@outlook.com  
 - Location: Israel · Open to DevOps roles
 
 ### Quick links
