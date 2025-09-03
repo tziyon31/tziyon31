@@ -38,4 +38,38 @@
   ![Jenkins](https://img.shields.io/badge/Jenkins-1?logo=jenkins&logoColor=white&labelColor=000&color=000)
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1?logo=githubactions&logoColor=white&labelColor=000&color=000)
   ![Ansible](https://img.shields.io/badge/Ansible-1?logo=ansible&logoColor=white&labelColor=000&color=000)
-  ![Terraform](https://img.shields.io/badge/Terraform-1?logo=terraform&logoColor=white&)
+  ![Terraform](https://img.shields.io/badge/Terraform-1?logo=terraform&logoColor=white&labelColor=000&color=000)
+  ![AWS](https://img.shields.io/badge/AWS-1?logo=amazonaws&logoColor=white&labelColor=000&color=000)
+  <br/>
+  ![Prometheus](https://img.shields.io/badge/Prometheus-1?logo=prometheus&logoColor=white&labelColor=000&color=000)
+  ![Grafana](https://img.shields.io/badge/Grafana-1?logo=grafana&logoColor=white&labelColor=000&color=000)
+  ![Linux](https://img.shields.io/badge/Linux-1?logo=linux&logoColor=white&labelColor=000&color=000)
+  ![SQLite](https://img.shields.io/badge/SQLite-1?logo=sqlite&logoColor=white&labelColor=000&color=000)
+  ![GitHub](https://img.shields.io/badge/GitHub-1?logo=github&logoColor=white&labelColor=000&color=000)
+</div>
+
+<!-- Stats -->
+<div align="center" style="margin-top:5px; margin-bottom:5px;">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tziyon31&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tziyon31&theme=dark&background=000000" alt="Streak Stats"/>
+</div>
+
+<!-- Pitch -->
+> I build pragmatic DevOps and AI automations: IaC on AWS, K8s/Jenkins CI/CD, and AI agents for troubleshooting.
+
+### Featured projects
+- **AI DevOps Agent** – LLM + API, planning JSON for tool executors  
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
+
+- **Python CI/CD on K8s (Helm)** – Jenkins pipeline with Docker build & Helm deploy  
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/python-cicd-pipeline-k8s-helm&cloudshell_git_branch=main&cloudshell_working_dir=.)
+
+- **Terraform Projects** – IaC with reusable Terraform modules  
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/terraform-projects&cloudshell_git_branch=main&cloudshell_working_dir=.)
+
+### Contact
+- Email: tziyon31@hotmail.com  
+- Location: Israel · Open to DevOps roles
+
+### Quick links
+- Resume: [Link](https://drive.google.com/file/d/1Arm2Ff0oudR3aJei-zhMIje9YoHAxj-w/view?usp=sharing)
