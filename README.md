@@ -1,7 +1,7 @@
 <!-- Header / Hero -->
 <p align="center">
   <img
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/320fd193-8d1b-4242-a6ce-1a43c5df9a96" />
+< alt="image" src="https://github.com/user-attachments/assets/320fd193-8d1b-4242-a6ce-1a43c5df9a96" />
 
     alt="Tziyon Bublil banner"
     width="33%" />
