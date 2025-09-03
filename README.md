@@ -1,11 +1,11 @@
 <!-- Header / Hero -->
 <p align="center">
-  <img
-< alt="image" src="https://github.com/user-attachments/assets/320fd193-8d1b-4242-a6ce-1a43c5df9a96" />
-
-    alt="Tziyon Bublil banner"
+  <img 
+    src="https://github.com/user-attachments/assets/320fd193-8d1b-4242-a6ce-1a43c5df9a96" 
+    alt="Tziyon Bublil banner" 
     width="33%" />
 </p>
+
 <div align="center">
   <!-- Social -->
   <a href="https://www.linkedin.com/in/tziyon-bublil-190a8a373/">
