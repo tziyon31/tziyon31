@@ -51,10 +51,10 @@
 <!-- Stats -->
 <div align="center" style="margin-top:5px; margin-bottom:5px;">
   <img height="150"
-       src="https://github-readme-stats-cqbmhhq0a-tziyon31s-projects.vercel.app/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=14400&v=2"
+       src="https://webhookstb.xyz/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=14400&v=2"
        alt="GitHub Stats"/>
   <img height="150"
-       src="https://github-readme-stats-cqbmhhq0a-tziyon31s-projects.vercel.app/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=2"
+       src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=2"
        alt="Top Languages"/>
 </div>
 
