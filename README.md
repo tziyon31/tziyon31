@@ -18,6 +18,9 @@
   <a href="https://github.com/tziyon31?tab=repositories">
     <img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-181717?logo=github&logoColor=white">
   </a>
+  <a href="https://drive.google.com/file/d/1mZH5ht_osdiocGAyZeiDarGz-qXL79VO/view?usp=sharing">
+    <img height="28" alt="Resume" src="https://img.shields.io/badge/Resume-FF5722?logo=googledrive&logoColor=white">
+  </a>
   <!-- Social metrics -->
   <img src="https://img.shields.io/github/followers/tziyon31?style=social" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/tziyon31?style=social" alt="Stars"/>
@@ -55,14 +58,13 @@
 ### 📊 GitHub Stats
 <div align="center" style="margin:8px 0;">
   <img height="150"
-       src="https://webhookstb.xyz/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=14400&v=5"
+       src="https://webhookstb.xyz/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=14400&v=4"
        alt="GitHub Stats"/>
   <img height="150"
-       src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=5"
+       src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=4"
        alt="Top Languages"/>
-  <!-- Use official domain for streak to avoid GitHub camo fetch issues -->
   <img height="150"
-       src="https://streak-stats.demolab.com?user=tziyon31&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=420&v=5"
+       src="https://webhookstb.xyz/api/streak?user=tziyon31&theme=tokyonight&hide_border=true&v=4"
        alt="GitHub Streak"/>
 </div>
 
@@ -84,6 +86,3 @@
 ### 📬 Contact
 - Email: tziyon31@outlook.com  
 - Location: Israel · Open to DevOps roles
-
-### 🔗 Quick links
-- Resume: [Link](https://drive.google.com/file/d/1Arm2Ff0oudR3aJei-zhMIje9YoHAxj-w/view?usp=sharing)
