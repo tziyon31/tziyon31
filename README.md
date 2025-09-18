@@ -24,9 +24,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tziyon31" alt="Visitor Badge"/>
 </div>
 
-<!-- Skills badges -->
+---
+
+### 🧰 Tech Stack (high level)
 <div align="center" style="margin-top:5px; margin-bottom:5px;">
-  
+
   ![Git](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=000&color=000)
   ![Bash](https://img.shields.io/badge/Bash-1?logo=gnubash&logoColor=white&labelColor=000&color=000)
   ![Python](https://img.shields.io/badge/Python-1?logo=python&logoColor=white&labelColor=000&color=000)
@@ -48,33 +50,39 @@
   ![GitHub](https://img.shields.io/badge/GitHub-1?logo=github&logoColor=white&labelColor=000&color=000)
 </div>
 
-<!-- Stats -->
-<div align="center" style="margin-top:5px; margin-bottom:5px;">
+---
+
+### 📊 GitHub Stats
+<div align="center" style="margin:8px 0;">
   <img height="150"
-       src="https://webhookstb.xyz/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=14400&v=2"
+       src="https://webhookstb.xyz/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=14400&v=4"
        alt="GitHub Stats"/>
   <img height="150"
-       src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=2"
+       src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=4"
        alt="Top Languages"/>
+  <img height="150"
+       src="https://streak-stats.demolab.com?user=tziyon31&theme=tokyonight&hide_border=true&v=4"
+       alt="GitHub Streak"/>
 </div>
 
-<!-- Pitch -->
-> I build pragmatic DevOps and AI automations: IaC on AWS, K8s/Jenkins CI/CD, and AI agents for troubleshooting.
+---
 
-### Featured projects
+### 🚀 Featured Projects
 - **AI DevOps Agent** – LLM + API, planning JSON for tool executors  
-  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="28">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
 
 - **Python CI/CD on K8s (Helm)** – Jenkins pipeline with Docker build & Helm deploy  
-  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/python-cicd-pipeline-k8s-helm&cloudshell_git_branch=main&cloudshell_working_dir=.)
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="28">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/python-cicd-pipeline-k8s-helm&cloudshell_git_branch=main&cloudshell_working_dir=.)
 
 - **EKS CloudForge** – End-to-end DevOps platform on AWS EKS.  
   Includes Terraform IaC for infrastructure, Helm for app deployment, Jenkins CI/CD pipeline, and integrated monitoring with Prometheus & Grafana.  
-  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="32">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/EKS_CloudForge&cloudshell_git_branch=main&cloudshell_working_dir=.)
+  [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="28">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/EKS_CloudForge&cloudshell_git_branch=main&cloudshell_working_dir=.)
 
-### Contact
+---
+
+### 📬 Contact
 - Email: tziyon31@outlook.com  
 - Location: Israel · Open to DevOps roles
 
-### Quick links
+### 🔗 Quick links
 - Resume: [Link](https://drive.google.com/file/d/1Arm2Ff0oudR3aJei-zhMIje9YoHAxj-w/view?usp=sharing)
