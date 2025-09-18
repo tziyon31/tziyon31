@@ -50,8 +50,12 @@
 
 <!-- Stats -->
 <div align="center" style="margin-top:5px; margin-bottom:5px;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tziyon31&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tziyon31&theme=dark&background=000000" alt="Streak Stats"/>
+  <img height="150"
+       src="https://github-readme-stats-cqbmhhq0a-tziyon31s-projects.vercel.app/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+       alt="GitHub Stats"/>
+  <img height="150"
+       src="https://github-readme-stats-cqbmhhq0a-tziyon31s-projects.vercel.app/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
+       alt="Top Languages"/>
 </div>
 
 <!-- Pitch -->
