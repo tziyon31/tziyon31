@@ -61,7 +61,7 @@
        src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=4"
        alt="Top Languages"/>
   <img height="150"
-       src="https://streak-stats.demolab.com?user=tziyon31&theme=tokyonight&hide_border=true&v=4"
+       src="https://webhookstb.xyz/api/streak?user=tziyon31&theme=tokyonight&hide_border=true&v=4"
        alt="GitHub Streak"/>
 </div>
 
