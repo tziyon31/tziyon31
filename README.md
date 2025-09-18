@@ -55,13 +55,14 @@
 ### 📊 GitHub Stats
 <div align="center" style="margin:8px 0;">
   <img height="150"
-       src="https://webhookstb.xyz/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=14400&v=4"
+       src="https://webhookstb.xyz/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=14400&v=5"
        alt="GitHub Stats"/>
   <img height="150"
-       src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=4"
+       src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&cache_seconds=14400&v=5"
        alt="Top Languages"/>
+  <!-- Use official domain for streak to avoid GitHub camo fetch issues -->
   <img height="150"
-       src="https://webhookstb.xyz/api/streak?user=tziyon31&theme=tokyonight&hide_border=true&v=11"
+       src="https://streak-stats.demolab.com?user=tziyon31&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=420&v=5"
        alt="GitHub Streak"/>
 </div>
 
