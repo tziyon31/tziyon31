@@ -29,7 +29,7 @@
 
 ---
 
-### 🧰 Tech Stack (high level)
+### 🧰 Tech Stack 
 <div align="center" style="margin-top:5px; margin-bottom:5px;">
 
   ![Git](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=000&color=000)
