@@ -18,7 +18,7 @@
   <a href="https://github.com/tziyon31?tab=repositories">
     <img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-181717?logo=github&logoColor=white">
   </a>
-  <a href="https://drive.google.com/file/d/1SpAFu4E0Eh7SEnE30LV5LbPd5A8FE4nU/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1KxI3IiGwrJfisAL4HcKq5EhLbaadwQdM/view?usp=sharing">
     <img height="28" alt="Resume" src="https://img.shields.io/badge/Resume-FF5722?logo=googledrive&logoColor=white">
   </a>
   <!-- Social metrics -->
@@ -70,7 +70,27 @@
 
 ---
 
-### 🚀 Featured Projects
+<!-- A) Big CTA to all repositories -->
+<div align="center" style="margin: 14px 0 8px;">
+  <a href="https://github.com/tziyon31?tab=repositories">
+    <img
+      alt="Browse All Repositories"
+      src="https://img.shields.io/badge/%F0%9F%93%9A%20Browse%20All%20Repositories-Click%20Here-2ea44f?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+</div>
+
+<!-- B) Featured Projects header with All Repos button -->
+<div align="center" style="margin: 6px 0 10px;">
+  <h3 style="margin: 0;">🚀 Featured Projects</h3>
+  <a href="https://github.com/tziyon31?tab=repositories">
+    <img
+      alt="View All Repositories"
+      src="https://img.shields.io/badge/View%20All%20Repos-@tziyon31-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+</div>
+
 - **AI DevOps Agent** – LLM + API, planning JSON for tool executors  
   [<img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell" height="28">](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/tziyon31/ai_devops_agent_project&cloudshell_git_branch=main&cloudshell_working_dir=modules/ReAct_Agent_with_Planning_and_Tools/version2)
 
