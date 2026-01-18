@@ -51,6 +51,10 @@
   ![Linux](https://img.shields.io/badge/Linux-1?logo=linux&logoColor=white&labelColor=000&color=000)
   ![SQLite](https://img.shields.io/badge/SQLite-1?logo=sqlite&logoColor=white&labelColor=000&color=000)
   ![GitHub](https://img.shields.io/badge/GitHub-1?logo=github&logoColor=white&labelColor=000&color=000)
+  <br/>
+  ![Maven](https://img.shields.io/badge/Maven-1?logo=apachemaven&logoColor=white&labelColor=000&color=000)
+  ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-1?logo=jfrog&logoColor=white&labelColor=000&color=000)
+  ![Argo CD](https://img.shields.io/badge/ArgoCD-1?logo=argo&logoColor=white&labelColor=000&color=000)
 </div>
 
 ---
@@ -74,8 +78,14 @@
 <div align="center" style="margin: 14px 0 8px;">
   <a href="https://github.com/tziyon31?tab=repositories">
     <img
-      alt="Browse All Repositories"
-      src="https://img.shields.io/badge/%F0%9F%93%9A%20Browse%20All%20Repositories-Click%20Here-2ea44f?style=for-the-badge&logo=github&logoColor=white"
+      alt="Browse All GitHub Repositories"
+      src="https://img.shields.io/badge/%F0%9F%93%9A%20Browse%20All%20GitHub%20Repos-Click%20Here-2ea44f?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+  <a href="https://gitlab.com/users/tziyon31/projects">
+    <img
+      alt="Browse All GitLab Projects"
+      src="https://img.shields.io/badge/%F0%9F%A6%8A%20Browse%20All%20GitLab%20Projects-Click%20Here-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"
     />
   </a>
 </div>
@@ -85,8 +95,8 @@
   <h3 style="margin: 0;">🚀 Featured Projects</h3>
   <a href="https://github.com/tziyon31?tab=repositories">
     <img
-      alt="View All Repositories"
-      src="https://img.shields.io/badge/View%20All%20Repos-@tziyon31-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View All GitHub Repositories"
+      src="https://img.shields.io/badge/View%20All%20GitHub%20Repos-@tziyon31-181717?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 </div>
