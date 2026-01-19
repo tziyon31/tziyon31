@@ -90,15 +90,9 @@
   </a>
 </div>
 
-<!-- B) Featured Projects header with All Repos button -->
+<!-- B) Featured Projects header (removed duplicate All Repos button) -->
 <div align="center" style="margin: 6px 0 10px;">
   <h3 style="margin: 0;">🚀 Featured Projects</h3>
-  <a href="https://github.com/tziyon31?tab=repositories">
-    <img
-      alt="View All GitHub Repositories"
-      src="https://img.shields.io/badge/View%20All%20GitHub%20Repos-@tziyon31-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
 </div>
 
 - **AI DevOps Agent** – LLM + API, planning JSON for tool executors  
