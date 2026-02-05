@@ -108,5 +108,5 @@
 ---
 
 ### 📬 Contact
-- Email: tziyon31@outlook.com  
+- Email: tziyon31@hotmail.com  
 - Location: Israel · Open to DevOps roles
