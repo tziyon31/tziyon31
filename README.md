@@ -27,14 +27,15 @@
 
 ---
 
-## 👨‍💻 DevOps / CI/CD Engineer
+# 👨‍💻 DevOps / CI/CD Engineer
 
-DevOps engineer focused on CI/CD orchestration, Infrastructure as Code, Kubernetes delivery, and autonomous environment governance.  
-Hands-on experience building production-style pipelines, release automation workflows, and Terraform-driven cloud environments with strong reliability discipline.
+DevOps / CI/CD Engineer with hands-on experience designing Kubernetes environments and production-style CI/CD systems.  
+Experienced in AWS infrastructure automation using Terraform, building secure multi-stage pipelines, and implementing release governance practices.  
+Strong systems thinker, fast learner, and team-oriented engineer focused on stability, reliability, and scalable cloud delivery.
 
 ---
 
-### 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <div align="center">
 
@@ -43,14 +44,21 @@ Hands-on experience building production-style pipelines, release automation work
 ![Python](https://img.shields.io/badge/Python-1?logo=python&logoColor=white&labelColor=000&color=000)
 ![Docker](https://img.shields.io/badge/Docker-1?logo=docker&logoColor=white&labelColor=000&color=000)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1?logo=kubernetes&logoColor=white&labelColor=000&color=000)
+
 ![Helm](https://img.shields.io/badge/Helm-1?logo=helm&logoColor=white&labelColor=000&color=000)
 ![Jenkins](https://img.shields.io/badge/Jenkins-1?logo=jenkins&logoColor=white&labelColor=000&color=000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1?logo=githubactions&logoColor=white&labelColor=000&color=000)
 ![Terraform](https://img.shields.io/badge/Terraform-1?logo=terraform&logoColor=white&labelColor=000&color=000)
 ![Ansible](https://img.shields.io/badge/Ansible-1?logo=ansible&logoColor=white&labelColor=000&color=000)
+
 ![AWS](https://img.shields.io/badge/AWS-1?logo=amazonaws&logoColor=white&labelColor=000&color=000)
 ![Prometheus](https://img.shields.io/badge/Prometheus-1?logo=prometheus&logoColor=white&labelColor=000&color=000)
 ![Grafana](https://img.shields.io/badge/Grafana-1?logo=grafana&logoColor=white&labelColor=000&color=000)
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-1?logo=elasticsearch&logoColor=white&labelColor=000&color=000)
+![Fluent%20Bit](https://img.shields.io/badge/FluentBit-1?logo=fluentbit&logoColor=white&labelColor=000&color=000)
+![Kibana](https://img.shields.io/badge/Kibana-1?logo=kibana&logoColor=white&labelColor=000&color=000)
+
 ![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-1?logo=jfrog&logoColor=white&labelColor=000&color=000)
 ![Linux](https://img.shields.io/badge/Linux-1?logo=linux&logoColor=white&labelColor=000&color=000)
 
@@ -58,40 +66,51 @@ Hands-on experience building production-style pipelines, release automation work
 
 ---
 
-### 🚀 Production-Grade DevOps Projects
+# 🚀 Production-Grade DevOps Projects
 
 ---
 
-#### 🔹 Leader Lidar – Release Orchestration & CI Governance
-Multi-repository Jenkins release pipeline with semantic versioning, dependency validation, integration testing, and strict snapshot/release separation via Artifactory.  
-Designed controlled `release/*` gating workflow to improve release consistency and reduce integration risk.
+## Leader Lidar – Release Orchestration & CI Governance
 
-🔗 https://github.com/topics/lead-lidar
+Multi-repository Jenkins release pipeline with semantic versioning, dependency validation, integration testing, and strict snapshot/release separation via Artifactory.
 
----
-
-#### 🔹 TED Search – CI/CD & Ephemeral Environment Automation
-Architected multi-pipeline Jenkins CI/CD system with commit-driven ephemeral environments, Dockerized builds, and Terraform-based provisioning.  
-Implemented TTL-governed lifecycle management with S3 state autodiscovery and guarded teardown orchestration, improving reliability and cloud cost control.
-
-🔗 https://github.com/tziyon31/ted-search
+<a href="https://github.com/topics/lead-lidar">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
-#### 🔹 Cloud-Native CRM Platform – GitOps & Observability
-Implemented Kubernetes GitOps deployments with Helm including NGINX Ingress, RBAC, cert-manager, and structured secrets handling.  
-Built Prometheus, Grafana, and EFK observability stack with dashboards and alerting to improve troubleshooting visibility and platform stability.
+## TED Search – CI/CD & Ephemeral Environment Automation
 
-🔗 https://github.com/tziyon31/CRM-gitops
+Multi-pipeline Jenkins CI/CD system with commit-driven ephemeral environments, Dockerized builds, and Terraform-based provisioning.
+
+Implemented TTL-governed lifecycle management with S3 state autodiscovery and guarded teardown orchestration to improve reliability and cloud cost control.
+
+<a href="https://github.com/tziyon31/ted-search">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
-### 📊 GitHub Activity
+## Cloud-Native CRM Platform – GitOps & Observability
+
+Kubernetes GitOps deployments with Helm including NGINX Ingress, RBAC, cert-manager, and network policies.
+
+Built Prometheus, Grafana, and EFK observability stack (Elasticsearch, Fluent Bit, Kibana) with dashboards and alerting to improve platform visibility and troubleshooting.
+
+<a href="https://github.com/tziyon31/CRM-gitops">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
   <img height="150"
        src="https://webhookstb.xyz/api?username=tziyon31&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
        alt="GitHub Stats"/>
+
   <img height="150"
        src="https://webhookstb.xyz/api/top-langs/?username=tziyon31&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
        alt="Top Languages"/>
@@ -99,8 +118,8 @@ Built Prometheus, Grafana, and EFK observability stack with dashboards and alert
 
 ---
 
-### 📬 Contact
+# 📬 Contact
 
 📍 Israel  
 📧 tziyon31@hotmail.com  
-🔗 Open to DevOps / Cloud Engineering roles  
+💼 Open to DevOps / Cloud Engineering roles
