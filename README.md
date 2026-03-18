@@ -17,7 +17,7 @@
   <a href="https://github.com/tziyon31?tab=repositories">
     <img height="28" alt="Projects" src="https://img.shields.io/badge/Projects-181717?logo=github&logoColor=white">
   </a>
-  <a href="https://drive.google.com/file/d/1KxI3IiGwrJfisAL4HcKq5EhLbaadwQdM/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1KxI3IiGwrJfisAL4HcKq5EhLbaadwQdM/view?usp=sharing](https://drive.google.com/file/d/1JWpuJDcx1XMT7qAPC4jaBYdKNVRuH8Bc/view?usp=sharing)">
     <img height="28" alt="Resume" src="https://img.shields.io/badge/Resume-FF5722?logo=googledrive&logoColor=white">
   </a>
   <img src="https://img.shields.io/github/followers/tziyon31?style=social" alt="Followers"/>
