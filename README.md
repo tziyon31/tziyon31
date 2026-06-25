@@ -1,10 +1,10 @@
 <!-- Header / Hero -->
 
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/320fd193-8d1b-4242-a6ce-1a43c5df9a96" 
-    alt="Tziyon Bublil banner" 
-    width="28%" />
+  <img
+    src="https://github.com/user-attachments/assets/f1432cbb-5c75-461b-b2f5-41f3b638f5df"
+    alt="Tziyon Bublil — DevOps / Cloud Engineer"
+    width="100%" />
 </p>
 
 <div align="center">
